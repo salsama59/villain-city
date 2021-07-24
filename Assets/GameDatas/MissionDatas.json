@@ -1,0 +1,227 @@
+[
+  {
+    "missionId": 1,
+    "missionMinimalLevelRequirement": 1,
+    "missionTitle": "Rob a beggar",
+    "missionDescription": "The beggars are weak and may have money.\r\njust rob them and you will be rewarded",
+    "missionDuration": {
+      "dayCount": 0,
+      "hours": 3,
+      "minutes": 0,
+      "seconds": 0
+    },
+    "missionValidityTimeLimit": {
+      "dayCount": 1,
+      "hours": 0,
+      "minutes": 0,
+      "seconds": 0
+    },
+    "isMissionActive": false,
+    "missionReward": {
+      "missionCrimeCurrencydReward": 7.0,
+      "minionGain": 1,
+      "stolenObjects": [{ "name": "Alcohol", "price": 1.0 }]
+    }
+  },
+  {
+    "missionId": 2,
+    "missionMinimalLevelRequirement": 1,
+    "missionTitle": "Rob a citizen",
+    "missionDescription": "The citizens are weak and may have money.\r\njust rob them and you will be rewarded",
+    "missionDuration": {
+      "dayCount": 0,
+      "hours": 4,
+      "minutes": 0,
+      "seconds": 0
+    },
+    "missionValidityTimeLimit": {
+      "dayCount": 1,
+      "hours": 0,
+      "minutes": 0,
+      "seconds": 0
+    },
+    "isMissionActive": false,
+    "missionReward": {
+      "missionCrimeCurrencydReward": 10.0,
+      "minionGain": 1,
+      "stolenObjects": [{ "name": "Watch", "price": 2.0 }]
+    }
+  },
+  {
+    "missionId": 3,
+    "missionMinimalLevelRequirement": 1,
+    "missionTitle": "Rob a rich",
+    "missionDescription": "The rich citizens have money for sure.\r\njust rob them and you will be rewarded",
+    "missionDuration": {
+      "dayCount": 0,
+      "hours": 5,
+      "minutes": 0,
+      "seconds": 0
+    },
+    "missionValidityTimeLimit": {
+      "dayCount": 0,
+      "hours": 14,
+      "minutes": 0,
+      "seconds": 0
+    },
+    "isMissionActive": false,
+    "missionReward": {
+      "missionCrimeCurrencydReward": 15.0,
+      "minionGain": 2,
+      "stolenObjects": [{ "name": "Ring", "price": 5.0 }]
+    }
+  },
+  {
+    "missionId": 4,
+    "missionMinimalLevelRequirement": 2,
+    "missionTitle": "Rob a cabane",
+    "missionDescription": "The cabanes may have money.\r\nJust break in and serve yourself",
+    "missionDuration": {
+      "dayCount": 0,
+      "hours": 8,
+      "minutes": 0,
+      "seconds": 0
+    },
+    "missionValidityTimeLimit": {
+      "dayCount": 3,
+      "hours": 0,
+      "minutes": 0,
+      "seconds": 0
+    },
+    "isMissionActive": false,
+    "missionReward": {
+      "missionCrimeCurrencydReward": 20.0,
+      "minionGain": 2,
+      "stolenObjects": [{ "name": "bag", "price": 5.0 }]
+    }
+  },
+  {
+    "missionId": 5,
+    "missionMinimalLevelRequirement": 2,
+    "missionTitle": "Rob a Flat",
+    "missionDescription": "The Flats have money.\r\nJust break in and serve yourself",
+    "missionDuration": {
+      "dayCount": 0,
+      "hours": 10,
+      "minutes": 0,
+      "seconds": 0
+    },
+    "missionValidityTimeLimit": {
+      "dayCount": 3,
+      "hours": 0,
+      "minutes": 0,
+      "seconds": 0
+    },
+    "isMissionActive": false,
+    "missionReward": {
+      "missionCrimeCurrencydReward": 22.0,
+      "minionGain": 2,
+      "stolenObjects": [{ "name": "Sport bag", "price": 6.0 }]
+    }
+  },
+  {
+    "missionId": 6,
+    "missionMinimalLevelRequirement": 2,
+    "missionTitle": "Rob a house",
+    "missionDescription": "The houses have money.\r\nJust break in and serve yourself",
+    "missionDuration": {
+      "dayCount": 0,
+      "hours": 12,
+      "minutes": 0,
+      "seconds": 0
+    },
+    "missionValidityTimeLimit": {
+      "dayCount": 0,
+      "hours": 11,
+      "minutes": 0,
+      "seconds": 0
+    },
+    "isMissionActive": false,
+    "missionReward": {
+      "missionCrimeCurrencydReward": 25.0,
+      "minionGain": 3,
+      "stolenObjects": [{ "name": "Luxury bag", "price": 8.0 }]
+    }
+  },
+  {
+    "missionId": 7,
+    "missionMinimalLevelRequirement": 3,
+    "missionTitle": "Rob a food store",
+    "missionDescription": "The food stores can have money or food.\r\nJust try it",
+    "missionDuration": {
+      "dayCount": 0,
+      "hours": 12,
+      "minutes": 0,
+      "seconds": 0
+    },
+    "missionValidityTimeLimit": {
+      "dayCount": 5,
+      "hours": 0,
+      "minutes": 0,
+      "seconds": 0
+    },
+    "isMissionActive": false,
+    "missionReward": {
+      "missionCrimeCurrencydReward": 50.0,
+      "minionGain": 3,
+      "stolenObjects": [
+        { "name": "Apple", "price": 6.0 },
+        { "name": "jewel", "price": 15.0 }
+      ]
+    }
+  },
+  {
+    "missionId": 8,
+    "missionMinimalLevelRequirement": 3,
+    "missionTitle": "Rob a clothe store",
+    "missionDescription": "The clothe stores can have money or clothes.\r\nJust try it",
+    "missionDuration": {
+      "dayCount": 0,
+      "hours": 12,
+      "minutes": 0,
+      "seconds": 0
+    },
+    "missionValidityTimeLimit": {
+      "dayCount": 5,
+      "hours": 0,
+      "minutes": 0,
+      "seconds": 0
+    },
+    "isMissionActive": false,
+    "missionReward": {
+      "missionCrimeCurrencydReward": 50.0,
+      "minionGain": 2,
+      "stolenObjects": [
+        { "name": "Rare clothe", "price": 7.0 },
+        { "name": "jewel", "price": 15.0 }
+      ]
+    }
+  },
+  {
+    "missionId": 9,
+    "missionMinimalLevelRequirement": 3,
+    "missionTitle": "Rob a Jewel store",
+    "missionDescription": "The jewel stores can have money or jewels.\r\nJust try it",
+    "missionDuration": {
+      "dayCount": 0,
+      "hours": 15,
+      "minutes": 0,
+      "seconds": 0
+    },
+    "missionValidityTimeLimit": {
+      "dayCount": 0,
+      "hours": 8,
+      "minutes": 0,
+      "seconds": 0
+    },
+    "isMissionActive": false,
+    "missionReward": {
+      "missionCrimeCurrencydReward": 65.0,
+      "minionGain": 2,
+      "stolenObjects": [
+        { "name": "Crown", "price": 20.0 },
+        { "name": "jewel", "price": 15.0 }
+      ]
+    }
+  }
+]

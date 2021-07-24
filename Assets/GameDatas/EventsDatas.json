@@ -1,0 +1,10 @@
+[
+  {
+    "name": "First event",
+    "description": "Somthing bad happened",
+    "cost": {
+      "criminalityRate": 0.1,
+      "worldWealth": -0.3
+    }
+  }
+]

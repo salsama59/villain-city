@@ -1,0 +1,54 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &726976000575086791
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 726976000575086789}
+  - component: {fileID: 726976000575086790}
+  m_Layer: 0
+  m_Name: VilainOrganizationManager
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &726976000575086789
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 726976000575086791}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &726976000575086790
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 726976000575086791}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 1934ab7abba5a8540a4ae5b2e5faa495, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  upgradeOrganizationPanelModel: {fileID: 7415850813453126562, guid: 5e44d551d2cf1a248ad5d00d48766d0e, type: 3}
+  upgradeRequirementTextModel: {fileID: 6350595079636356391, guid: 5802165257542474589caa7967327ca6, type: 3}
+  buttonGroupModel: {fileID: 6750192650019622461, guid: b9d9a382411781048b324d9141f359a6, type: 3}
+  organizationSprites:
+  - {fileID: 21300000, guid: c41caeaa21081c74baadb877d2056ece, type: 3}
+  - {fileID: 21300000, guid: a4171076dc097834b8dfab7455ce0054, type: 3}
+  - {fileID: 21300000, guid: c4bf971223a28be47b53e2922190a46e, type: 3}
+  - {fileID: 21300000, guid: e5cb8dc319f732c4f9f431c243747192, type: 3}
+  vilainOrganaizationObject: {fileID: 0}
